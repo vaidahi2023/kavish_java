@@ -1,0 +1,11 @@
+types of loops
+
+1. entry control loop
+	 --- for ,while
+2.exit control loop
+	-- do while 
+	
+for(intialization;condition;increment/decrement)
+{
+		statement
+}
