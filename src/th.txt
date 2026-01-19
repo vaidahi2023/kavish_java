@@ -1,0 +1,41 @@
+In Java, classes and objects form the foundation of Object-Oriented Programming (OOP). They help model real-world entities and organize code in a structured way.
+
+A class is a blueprint used to create objects that share common properties and behavior.
+An object is an instance of a class. It represents a specific entity created from the class template.
+For Example, Dog is a class, Tommy is an object of that class.
+
+
+Java Class
+A class is a blueprint that defines data and behavior for objects. It groups related fields and methods in a single unit. Memory for its members is allocated only when an object is created.
+
+Acts as a template to create objects with shared structure.
+Does not occupy memory for fields until instantiation.
+Can contain fields, methods, constructors, nested classes and interfaces.
+
+An object is an instance of a class created to access its data and operations. Each object holds its own state.
+data member : properties of object 
+member function:function of class 
+
+car -- class 
+iphone 16 -- object 
+pen -- class
+vehicle -- class 
+bike --object 
+
+syntax: to create the object 
+classname objectname=new classname();
+
+A constructor in Java is a special member that is called when an object is created. 
+It initializes the new object’s state.It is used to set default or user-defined values for the object's attributes
+
+A constructor has the same name as the class.
+It does not have a return type, not even void.
+It can accept parameters to initialize object properties.
+
+
+types of constructor
+
+1.default constructor
+2.parameterized constructor 
+3.copy constructor
+
