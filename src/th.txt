@@ -39,3 +39,26 @@ types of constructor
 2.parameterized constructor 
 3.copy constructor
 
+
+oops concept 
+
+Encapsulation
+inheritance
+polymoriphm 
+abstraction
+
+inheritance is the techique that inherits parent class properties to children class 
+
+types of inheritance 
+1.single inheritance 
+2.multilevel inheritance 
+3.multiple inheritance
+4.hierichacial inheritance
+5.hybrid inheritance
+
+
+
+
+
+
+
